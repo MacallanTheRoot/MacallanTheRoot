@@ -14,10 +14,11 @@
 - I'm Fullstack Developer and Cyber Securrity
 - Linux User and Lover
 
-<p> I love and am interested in programming, graphic design, songwriting and Japanese culture.
-I know 3 languages 1. English at a2-b1 level 2. Japanese at n3 level and finally Turkish at 
-native language level <p>
+<p>I'm Hamza Efe Şahinbas. I am Cyber Security, International Translator and CEO of Chase Co. I know 3 languages, 4 programming languages. Finally, I studied web design and logo design<p>
 
+  <p>My Website:<br><p>
+   <a href="http://thatzme.rf.gd/">Website<a> 
+  
 
 <body>
 
