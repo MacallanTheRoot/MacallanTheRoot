@@ -16,10 +16,10 @@
 
 <p>I'm Hamza Efe Şahinbas. I am Cyber Security, International Translator and CEO of Chase Co. I know 3 languages, 4 programming languages. Finally, I studied web design and logo design<p>
 
-  <p>My Website:<br><p>
-   <a href="http://thatzme.rf.gd/">Website<a> 
-  
-
-<body>
+  <p>Websites:<br><p>
+   <a href="http://thatzme.rf.gd/">My Website<a> 
+  <a href="https://www.linkedin.com/in/hamza-efe-%C5%9F-018178213/">Linkedin<a> 
+    <a href="https://www.instagram.com/the_hamis.ja/">Instagram<a> 
+      <body>
 
 <html>
