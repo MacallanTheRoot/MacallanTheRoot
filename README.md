@@ -20,9 +20,6 @@
    <a href="http://thatzme.rf.gd/">My Website<a> <br>
   <a href="https://www.linkedin.com/in/hamza-efe-%C5%9F-018178213/">Linkedin<a><br> 
     <a href="https://www.instagram.com/the_hamis.ja/">Instagram<a><br>
-    
-      <img src="https://giphy.com/embed/e7PStaUahGesgBnUKz">
-      
       
       
       <body>
