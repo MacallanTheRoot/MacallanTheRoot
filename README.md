@@ -20,6 +20,12 @@
    <a href="http://thatzme.rf.gd/">My Website<a> <br>
   <a href="https://www.linkedin.com/in/hamza-efe-%C5%9F-018178213/">Linkedin<a><br> 
     <a href="https://www.instagram.com/the_hamis.ja/">Instagram<a><br>
+    
+      
+<iframe src="https://giphy.com/embed/e7PStaUahGesgBnUKz" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/PureNoiseRecords-pure-noise-records-recs-e7PStaUahGesgBnUKz">via GIPHY</a></p>      
+      
+      
+      
       <body>
 
 <html>
