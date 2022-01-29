@@ -11,11 +11,11 @@
 <body>
 
 - Hi,I dont know who the fuck i am
-- Part Time Music, almost full-time Coder
--Depressed Su'c'dal Coder
+- Part Time Music, almost full-time Coder 
+- Depressed Su'c'dal Coder
 - Linux User and Lover
   
-<p>I am interested in Cybersecurity, International Translator and CEO of Chase Co.<p>
+<p>I am Cybersecurity, International Translator and CEO of Chase Co.<p>
 
   <p>Websites:<br><p>
    <a href="http://thatzme.rf.gd/">My Website<a> <br>
