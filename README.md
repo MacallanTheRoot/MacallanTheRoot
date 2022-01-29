@@ -10,11 +10,12 @@
 
 <body>
 
-- Hi, I’m @MacallanTheRoot
-- I'm Fullstack Developer and Cyber Securrity
+- Hi,I dont know who the fuck i am
+- Part Time Music, almost full-time Coder
+-Depressed Su'c'dal Coder
 - Linux User and Lover
-
-<p>I'm Hamza Efe Şahinbas. I am Cyber Security, International Translator and CEO of Chase Co. I know 3 languages, 4 programming languages. Finally, I studied web design and logo design<p>
+  
+<p>I am interested in Cybersecurity, International Translator and CEO of Chase Co.<p>
 
   <p>Websites:<br><p>
    <a href="http://thatzme.rf.gd/">My Website<a> <br>
