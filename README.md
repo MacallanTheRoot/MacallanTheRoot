@@ -11,7 +11,7 @@
 <body>
 
 - Hi,I dont know who the fuck i am
-- Part Time Music, almost full-time Coder 
+- Part Time Musiccian, almost full-time Coder 
 - Depressed Su'c'dal Coder
 - Linux User and Lover
   
