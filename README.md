@@ -5,7 +5,7 @@
 
 <head>
   
-# Hello, Guyz! <img src="https://raw.githubusercontent.com/MacallanTheRoot/MacallanTheRoot/assets/wave.gif" width="30px">
+# Hello, Guyz! <img src="https://github.com/MacallanTheRoot/MacallanTheRoot/blob/main/assets/wave.gif" width="30px">
 <head>
 
 <body>
