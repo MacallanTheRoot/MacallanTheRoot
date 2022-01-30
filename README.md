@@ -25,4 +25,4 @@
   
   <br>      
 
-    [![MacallanTheRoot header](https://raw.githubusercontent.com/MacallanTheRoot/MacallanTheRoot/main/assets/niggaz.gif)](https://thatzme.rf.gd)<html>
+[![MacallanTheRoot header](https://raw.githubusercontent.com/MacallanTheRoot/MacallanTheRoot/main/assets/niggaz.gif)](https://thatzme.rf.gd)<html>
