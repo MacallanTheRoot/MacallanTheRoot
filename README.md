@@ -21,7 +21,7 @@
   
   <a href="https://instagram.com/the_hamis.ja"><img height="30" src="https://github.com/MacallanTheRoot/MacallanTheRoot/blob/main/assets/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/hamza-efe-%C5%9F-018178213/"><img height="30" src="https://github.com/MacallanTheRoot/MacallanTheRoot/blob/main/assets/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-<a href="http://thatzme.rf.gd/"><img height="30" src="https://github.com/MacallanTheRoot/MacallanTheRoot/blob/main/assets/macallan.ico?raw=true"><a> 
+<a href="https://thatzme.rf.gd/"><img height="30" src="https://github.com/MacallanTheRoot/MacallanTheRoot/blob/main/assets/macallan.ico?raw=true"><a> 
   
   <br>      
 
