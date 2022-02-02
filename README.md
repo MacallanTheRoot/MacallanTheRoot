@@ -5,12 +5,12 @@
 
 <head>
   
-# Hello, Guyz! <img src="https://github.com/MacallanTheRoot/MacallanTheRoot/blob/main/assets/wave.gif" width="30px">
+# Whats UP?, Guyz! <img src="https://github.com/MacallanTheRoot/MacallanTheRoot/blob/main/assets/wave.gif" width="30px">
 <head>
 
 <body>
-
-- Hi,I dont know who the fuck i am
+ 
+- I dont know who the fuck i am
 - Part Time Musiccian, almost full-time Coder 
 - Depressed Su'c'dal Coder
 - Linux User
