@@ -13,7 +13,7 @@
 - Hi,I dont know who the fuck i am
 - Part Time Musiccian, almost full-time Coder 
 - Depressed Su'c'dal Coder
-- Linux User and Lover
+- Linux User
   
 <p>I am Cybersecurity, International Translator and CEO of Chase Co.<p>
 
