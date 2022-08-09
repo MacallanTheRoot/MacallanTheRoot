@@ -15,7 +15,7 @@
 - Depressed Su'c'dal Coder
 - Linux User
   
-<p>I am Cybersecurity, International Translator and CEO of Chase Co.<p>
+<p>I am Cybersecurity, Interpreter and CEO of Chase Co.<p>
 
   <p>Websites:<br><p>
   
