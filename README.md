@@ -15,9 +15,12 @@
 - Depressed Su'c'dal Coder
 - Linux User
   
-<p>I am Cybersecurity, Interpreter and CEO of Chase Co.<p>
+<p>I am Front-end developer, Interpreter and CEO of Pi yazılım<p>
 
   <p>Websites:<br><p>
+ 
+  
+  							<a href="#" ><span class="fa fa-instagram"><i class="sr-only">Instagram</i></span></a>
   
   <a href="https://instagram.com/the_hamis.ja"><img height="30" src="https://github.com/MacallanTheRoot/MacallanTheRoot/blob/main/assets/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/hamza-efe-%C5%9F-018178213/"><img height="30" src="https://github.com/MacallanTheRoot/MacallanTheRoot/blob/main/assets/linkedin.png?raw=true"></a>&nbsp;&nbsp;
