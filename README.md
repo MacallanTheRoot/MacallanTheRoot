@@ -27,8 +27,7 @@
   
   <br>      
 
-[![MacallanTheRoot header](https://raw.githubusercontent.com/MacallanTheRoot/MacallanTheRoot/main/assets/niggaz.gif)](https://thatzme.rf.gd)<html>
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=macallantheroot&count_private=true)
 <br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=macallantheroot)](https://github.com/anuraghazra/github-readme-stats)
