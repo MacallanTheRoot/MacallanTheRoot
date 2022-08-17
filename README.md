@@ -26,7 +26,8 @@
 <a href="https://thatzme.rf.gd/"><img height="30" src="https://github.com/MacallanTheRoot/MacallanTheRoot/blob/main/assets/macallan.ico?raw=true"><a> 
   
   <br>      
-  (https://github.com/MacallanTheRoot/MacallanTheRoot/blob/main/assets/niggaz.gif?raw=true)
+![](https://github.com/MacallanTheRoot/MacallanTheRoot/blob/main/assets/niggaz.gif)
+  
   <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=macallantheroot&show_icons=true&theme=tokyonight)
