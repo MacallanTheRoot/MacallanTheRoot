@@ -21,11 +21,12 @@
  
     
   
-  <a href="https://instagram.com/the_hamis.ja"><img height="30" src="https://github.com/MacallanTheRoot/MacallanTheRoot/blob/main/assets/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
+  <a  class="fa fa-instagram" href="https://instagram.com/the_hamis.ja"><img height="30" src="https://github.com/MacallanTheRoot/MacallanTheRoot/blob/main/assets/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/hamza-efe-%C5%9F-018178213/"><img height="30" src="https://github.com/MacallanTheRoot/MacallanTheRoot/blob/main/assets/linkedin.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://thatzme.rf.gd/"><img height="30" src="https://github.com/MacallanTheRoot/MacallanTheRoot/blob/main/assets/macallan.ico?raw=true"><a> 
   
   <br>      
+<iframe src="https://giphy.com/embed/e7PStaUahGesgBnUKz" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/PureNoiseRecords-pure-noise-records-recs-e7PStaUahGesgBnUKz">via GIPHY</a></p>
 
 <br>
 
