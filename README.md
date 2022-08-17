@@ -26,7 +26,7 @@
 <a href="https://thatzme.rf.gd/"><img height="30" src="https://github.com/MacallanTheRoot/MacallanTheRoot/blob/main/assets/macallan.ico?raw=true"><a> 
   
   <br>      
-![](https://github.com/MacallanTheRoot/MacallanTheRoot/blob/main/assets/niggaz.gif)
+![gif](https://github.com/MacallanTheRoot/MacallanTheRoot/blob/main/assets/niggaz.gif)
   
   <br>
 
