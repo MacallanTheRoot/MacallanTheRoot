@@ -26,7 +26,7 @@
 <a href="https://thatzme.rf.gd/"><img height="30" src="https://github.com/MacallanTheRoot/MacallanTheRoot/blob/main/assets/macallan.ico?raw=true"><a> 
   
   <br>      
-![macallantheroot](https://giphy.com/gifs/PureNoiseRecords-pure-noise-records-recs-e7PStaUahGesgBnUKz)
+![macallantheroot](https://media3.giphy.com/media/e7PStaUahGesgBnUKz/giphy.gif?cid=790b761123c905290a4a5528a3d47cd940a96548a4f5ba00&rid=giphy.gif&ct=g)
 
   
   <br>
