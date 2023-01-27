@@ -15,7 +15,7 @@
 - Depressed Su'c'dal Coder
 - Linux User
   
-<p>I am Front-end developer, Interpreter and CEO of Pi yazılım<p>
+<p>I am Front-end developer, Interpreter and CEO of Chaser Corp.<p>
 
   <p>Websites:<br><p>
  
