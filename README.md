@@ -17,6 +17,9 @@
   
 <p>I am Front-end developer, Interpreter and CEO of Chaser Corp.<p>
 
+<div class="badge-base LI-profile-badge" data-locale="tr_TR" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="efe-sahinbas" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://tr.linkedin.com/in/efe-sahinbas?trk=profile-badge">Efe Şahinbaş</a></div>
+
+              
   <p>Websites:<br><p>
  
  My Link tree :   <a href="https://beacons.ai/macallantheroot"><img height="30" src="https://github.com/MacallanTheRoot/MacallanTheRoot/blob/main/assets/beacons.png?raw=true"></a>&nbsp;&nbsp;
