@@ -20,7 +20,7 @@
               
   <p>Websites:<br><p>
  
- My Link tree : <br>  <a href="https://beacons.ai/macallantheroot"><img height="30" src="https://github.com/MacallanTheRoot/MacallanTheRoot/blob/main/assets/beacons.png?raw=true"></a>&nbsp;&nbsp;
+ My Link tree :  <a href="https://beacons.ai/macallantheroot"><img height="30" src="https://github.com/MacallanTheRoot/MacallanTheRoot/blob/main/assets/beacons.png?raw=true"></a>&nbsp;&nbsp; <br>
 
     
   
