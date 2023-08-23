@@ -10,17 +10,15 @@
 
 <body>
  
-- I dont know who the fuck i am
-- Part Time Musiccian, almost full-time Coder 
+- Part Time Designer, almost full-time Coder 
 - Depressed Su'c'dal Coder
 - Linux User
+- Full Stack Dev.
   
-<p>I am Front-end developer, Interpreter and CEO of Chaser Corp.<p>
-
-<div class="badge-base LI-profile-badge" data-locale="tr_TR" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="efe-sahinbas" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://tr.linkedin.com/in/efe-sahinbas?trk=profile-badge">Efe Şahinbaş</a></div>
+<p>I am Full Stack Developer, Interpreter and CEO of Chase Corp.<p>
 
               
-  <p>Websites:<br><p>
+  <p>Websites:<br><p><br>
  
  My Link tree :   <a href="https://beacons.ai/macallantheroot"><img height="30" src="https://github.com/MacallanTheRoot/MacallanTheRoot/blob/main/assets/beacons.png?raw=true"></a>&nbsp;&nbsp;
 
