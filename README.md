@@ -18,9 +18,9 @@
 <p>I am Full Stack Developer, Interpreter and CEO of Chase Corp.<p>
 
               
-  <p>Websites:<br><p><br>
+  <p>Websites:<br><p>
  
- My Link tree :   <a href="https://beacons.ai/macallantheroot"><img height="30" src="https://github.com/MacallanTheRoot/MacallanTheRoot/blob/main/assets/beacons.png?raw=true"></a>&nbsp;&nbsp;
+ My Link tree : <br>  <a href="https://beacons.ai/macallantheroot"><img height="30" src="https://github.com/MacallanTheRoot/MacallanTheRoot/blob/main/assets/beacons.png?raw=true"></a>&nbsp;&nbsp;
 
     
   
