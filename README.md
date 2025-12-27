@@ -48,7 +48,7 @@
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | **[Red-Team-Toolkit](https://github.com/MacallanTheRoot/Red-Team-Toolkit)** | 🦠 Comprehensive Adversary Emulation Framework including **PyRansom**, **AutoSec**, and **Network Attack Tools**. Features HTTP/SMTP C2, RSA Encryption, and Recon Automation. | `Python` `Flask` `Crypto` `Scapy` |
-| **[base64toPngorJpg](https://github.com/MacallanTheRoot/base64toPngorJpg)** | 🕵️‍♂️ **Steganography & Forensics Utility**. A rapid conversion tool for decoding Base64 strings to Image formats (PNG/JPG) and vice versa. Essential for CTFs and data analysis. | `Python` `Base64` `Pillow` |
+| **[Blue-Team-Toolkit](https://github.com/MacallanTheRoot/Blue-Team-Toolkit/)** | 🛡️ Integrated Cybersecurity Defense Suite. Includes ThreatWeave (SIEM) with ML-based detection, GuardEDR for behavioral active response , VOIDTRAP for deception , and AD-Guard for identity auditing. | `Python` `Streamlit` `Ldap3` |
 | **[Temel-python-projeleri](https://github.com/MacallanTheRoot/Temel-python-projeleri)** | 📚 **Scripting Portfolio**. A collection of algorithmic solutions, automation snippets, and logic-building exercises demonstrating core Python proficiency. | `Python` `Algorithms` `Scripting` |
 
 ---
