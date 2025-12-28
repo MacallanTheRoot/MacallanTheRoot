@@ -6,7 +6,7 @@
 
   <p align="center">
     <a href="https://github.com/MacallanTheRoot">
-      <img src="https://img.shields.io/badge/Security-Red%20Team-purple?style=for-the-badge&logo=kali-linux&logoColor=white" />
+      <img src="https://img.shields.io/badge/Security-Purple%20Team-purple?style=for-the-badge&logo=kali-linux&logoColor=white" />
     </a>
     <a href="https://github.com/MacallanTheRoot">
       <img src="https://img.shields.io/badge/Focus-Adversary%20Emulation-blue?style=for-the-badge&logo=security&logoColor=white" />
