@@ -21,11 +21,12 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **Advanced Ransomware Simulation Frameworks (PyRansom)**
-- 🔬 I’m researching **C2 Architectures & Evasion Techniques**
-- 🛡️ I specialize in **Automated Reconnaissance & Network Attacks**
-- 🐍 My weapon of choice is **Python**
-- 💬 Ask me about **Malware Analysis, Cryptography, and Red Teaming**
+- 🔭 I'm currently working on **AmateurOSINT** (OSINT Intelligence Platform) & **DarkDrill** (Dark Web Scraping Engine)
+- 🔬 I'm researching **C2 Architectures, Adversary Emulation & Threat Intelligence**
+- 🛡️ I specialize in **Offensive Security, SIEM Development & EDR Systems**
+- 🐍 My weapon of choice is **Python** (Streamlit, Flask, Scapy, Cryptography)
+- 🌐 I explore **OSINT, Dark Web Intelligence & Network Reconnaissance**
+- 💬 Ask me about **Malware Analysis, Purple Teaming, and Security Automation**
 
 ---
 
@@ -35,9 +36,10 @@
 
 | **Languages** | **Security & Systems** | **Frameworks & Tools** |
 |:-------------:|:----------------------:|:----------------------:|
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white) | ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) |
-| ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white) | ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) |
+| ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) | ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) |
 | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) | ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white) |
+| ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) | ![Tor](https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=tor-project&logoColor=white) | ![Scapy](https://img.shields.io/badge/Scapy-00599C?style=for-the-badge&logo=python&logoColor=white) |
 
 </div>
 
@@ -45,11 +47,68 @@
 
 ### 🚀 Featured Projects
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **[Red-Team-Toolkit](https://github.com/MacallanTheRoot/Red-Team-Toolkit)** | 🦠 Comprehensive Adversary Emulation Framework including **PyRansom**, **AutoSec**, and **Network Attack Tools**. Features HTTP/SMTP C2, RSA Encryption, and Recon Automation. | `Python` `Flask` `Crypto` `Scapy` |
-| **[Blue-Team-Toolkit](https://github.com/MacallanTheRoot/Blue-Team-Toolkit/)** | 🛡️ Integrated Cybersecurity Defense Suite. Includes ThreatWeave (SIEM) with ML-based detection, GuardEDR for behavioral active response , VOIDTRAP for deception , and AD-Guard for identity auditing. | `Python` `Streamlit` `Ldap3` |
-| **[Temel-python-projeleri](https://github.com/MacallanTheRoot/Temel-python-projeleri)** | 📚 **Scripting Portfolio**. A collection of algorithmic solutions, automation snippets, and logic-building exercises demonstrating core Python proficiency. | `Python` `Algorithms` `Scripting` |
+<table>
+<tr>
+<td width="50%">
+
+#### 🔍 [AmateurOSINT](https://github.com/MacallanTheRoot/AmateurOSINT)
+**Professional OSINT Intelligence Platform**
+- 🌐 13 OSINT modules (Social Media, Domain Intelligence, Breach Detection)
+- 📧 Email Harvesting & Validation
+- 🖼️ Exiftool-like Metadata Analysis (EXIF, PDF)
+- 📍 Geo-Intelligence with interactive maps
+- 🛡️ SSL Certificate Analysis & Infrastructure Recon
+- 📄 Professional PDF reporting
+
+`Python` `Streamlit` `dnspython` `Pillow` `PyPDF2`
+
+</td>
+<td width="50%">
+
+#### 🕸️ [DarkDrill](https://github.com/MacallanTheRoot/DarkDrill)
+**Dark Web Scraping & Intelligence Engine**
+- 🧅 Tor network integration for anonymous scraping
+- 🔍 Automated .onion discovery & indexing
+- 💾 SQLite database for threat intelligence storage
+- 📊 Interactive dashboard with Streamlit UI
+- 🌐 Multi-threaded concurrent scraping
+- 🔐 Privacy-focused architecture
+
+`Python` `Tor` `Streamlit` `SQLite` `BeautifulSoup`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+#### 🦠 [RedTeamToolkit](https://github.com/MacallanTheRoot/RedTeamToolkit)
+**Comprehensive Adversary Emulation Suite**
+- 💣 **PyRansom**: Advanced ransomware simulator with RSA encryption
+- 🤖 **AutoSec**: Automated reconnaissance & vulnerability scanner
+- 🔓 **ARP Spoofer**: MITM attack framework with packet interception
+- 📡 **Packet Sniffer**: Network traffic analyzer with protocol dissection
+- 🎯 HTTP/SMTP C2 infrastructure
+- 🔐 Cryptographic operations (RSA, AES)
+
+`Python` `Flask` `Scapy` `Cryptography` `Nmap`
+
+</td>
+<td width="50%">
+
+#### 🛡️ [BlueTeamToolkit](https://github.com/MacallanTheRoot/BlueTeamToolkit)
+**Integrated Cybersecurity Defense Platform**
+- 🚨 **ThreatWeave SIEM**: ML-powered threat detection & correlation
+- 🔍 **GuardEDR**: Behavioral EDR with active response & quarantine
+- 🪤 **VoidTrap**: Deception technology & honeypot system
+- 👤 **ADGuard**: Active Directory security auditing (LDAP)
+- 📊 Real-time dashboards with incident management
+- 🔗 MITRE ATT&CK framework integration
+
+`Python` `Streamlit` `Ldap3` `SQLite` `ML`
+
+</td>
+</tr>
+</table>
 
 ---
 
