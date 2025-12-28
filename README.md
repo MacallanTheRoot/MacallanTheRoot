@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f0f0f&height=250&section=header&text=MacallanTheRoot&fontSize=80&animation=fadeIn&fontAlign=50&fontAlignY=35&desc=Red%20Teamer%20%7C%20Malware%20Researcher%20%7C%20Python%20Dev&descAlign=50&descAlignY=55&descSize=20&fontColor=00ff00" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=EB34E1&height=250&section=header&text=MacallanTheRoot&fontSize=80&animation=fadeIn&fontAlign=50&fontAlignY=35&desc=Purple%20Teamer%20%7C%20Malware%20Researcher%20%7C%20Python%20Dev&descAlign=50&descAlignY=55&descSize=20&fontColor=00ff00" alt="header" />
 
   ### 🛡️ "damn. System down."
 
