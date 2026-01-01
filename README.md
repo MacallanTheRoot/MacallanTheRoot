@@ -112,10 +112,31 @@
 
 ---
 ### CTFS
-<img src="https://tryhackme-badges.s3.amazonaws.com/Macallantheroot.png" alt="Your Image Badge" />
-<a href="https://www.hackerrank.com/certificates/adaab5e0eae9" target="_blank">
-  <img src="https://img.shields.io/badge/-Python%20(Basic)-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Certificate" />
-</a>
+<div align="center">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/Macallantheroot.png" alt="TryHackMe Badge" />
+  <br /><br />
+
+  <a href="https://www.hackerrank.com/certificates/7058a1b15713" target="_blank">
+    <img src="https://img.shields.io/badge/-Certificate%20Name-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Certificate" />
+  </a>
+  <br />
+
+  <a href="https://www.hackerrank.com/certificates/5cd14e413668" target="_blank">
+    <img src="https://img.shields.io/badge/-Certificate%20Name-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Certificate" />
+  </a>
+  <br />
+
+  <a href="https://www.hackerrank.com/certificates/6f85cc5a9ca5" target="_blank">
+    <img src="https://img.shields.io/badge/-Certificate%20Name-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Certificate" />
+  </a>
+  <br />
+
+  <a href="https://www.hackerrank.com/certificates/adaab5e0eae9" target="_blank">
+    <img src="https://img.shields.io/badge/-Python%20(Basic)-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Certificate" />
+  </a>
+</div>
+
+---
 
 ### 📊 GitHub Stats
 
