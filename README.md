@@ -116,10 +116,10 @@
   <img src="https://tryhackme-badges.s3.amazonaws.com/Macallantheroot.png" alt="TryHackMe Badge" />
   <br /><br />
 
-  <a href="https://www.hackerrank.com/certificates/7058a1b15713" target="_blank">
-    <img src="https://img.shields.io/badge/-Hackerrank%20C#%20(Basic)%20Certificate-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Certificate" />
-  </a>
-  <br />
+<a href="https://www.hackerrank.com/certificates/7058a1b15713" target="_blank">
+  <img src="https://img.shields.io/badge/-Hackerrank%20C%23%20(Basic)%20Certificate-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Certificate" />
+</a>
+<br />
 
   <a href="https://www.hackerrank.com/certificates/5cd14e413668" target="_blank">
     <img src="https://img.shields.io/badge/-Hackerrank%20SQL%20(Basic)%20Certificate-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Certificate" />
