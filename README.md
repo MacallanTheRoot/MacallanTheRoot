@@ -113,7 +113,9 @@
 ---
 ### CTFS
 <img src="https://tryhackme-badges.s3.amazonaws.com/Macallantheroot.png" alt="Your Image Badge" />
-
+<a href="https://www.hackerrank.com/certificates/adaab5e0eae9" target="_blank">
+  <img src="https://img.shields.io/badge/-Python%20(Basic)-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Certificate" />
+</a>
 
 ### 📊 GitHub Stats
 
