@@ -117,22 +117,22 @@
   <br /><br />
 
   <a href="https://www.hackerrank.com/certificates/7058a1b15713" target="_blank">
-    <img src="https://img.shields.io/badge/-Certificate%20Name-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Certificate" />
+    <img src="https://img.shields.io/badge/-Hackerrank%20C#%20(Basic)%20Certificate-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Certificate" />
   </a>
   <br />
 
   <a href="https://www.hackerrank.com/certificates/5cd14e413668" target="_blank">
-    <img src="https://img.shields.io/badge/-Certificate%20Name-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Certificate" />
+    <img src="https://img.shields.io/badge/-Hackerrank%20SQL%20(Basic)%20Certificate-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Certificate" />
   </a>
   <br />
 
   <a href="https://www.hackerrank.com/certificates/6f85cc5a9ca5" target="_blank">
-    <img src="https://img.shields.io/badge/-Certificate%20Name-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Certificate" />
+    <img src="https://img.shields.io/badge/-Hackerrank%20Problem%20Solving%20(Intermediate)%20Certificate-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Certificate" />
   </a>
   <br />
 
   <a href="https://www.hackerrank.com/certificates/adaab5e0eae9" target="_blank">
-    <img src="https://img.shields.io/badge/-Python%20(Basic)-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Certificate" />
+    <img src="https://img.shields.io/badge/-Hackerrank%20Python%20(Basic)-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Certificate" />
   </a>
 </div>
 
