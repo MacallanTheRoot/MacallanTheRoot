@@ -112,7 +112,7 @@
 
 ---
 ### CTFS
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=350404" style='border:none;'></iframe>
+<img src="https://tryhackme-badges.s3.amazonaws.com/Macallantheroot.png" alt="Your Image Badge" />
 
 
 ### 📊 GitHub Stats
