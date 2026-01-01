@@ -113,8 +113,6 @@
 ---
 ### CTFS
 <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=350404" style='border:none;'></iframe>
-https://tryhackme.com/Macallantheroot/badges/mr-robot?utm_campaign=social_share&utm_medium=social&utm_content=badge&utm_source=copy&sharerId=602925e79721c33973165d8a
-
 
 
 ### 📊 GitHub Stats
