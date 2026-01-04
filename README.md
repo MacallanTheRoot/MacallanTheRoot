@@ -113,7 +113,7 @@
 ---
 ### CTFS
 <div align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/Macallantheroot.png" alt="TryHackMe Badge" />
+<img src="https://tryhackme-badges.s3.amazonaws.com/Macallantheroot.png" alt="Your Image Badge" />
   <br /><br />
 
 <a href="https://www.hackerrank.com/certificates/7058a1b15713" target="_blank">
