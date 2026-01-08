@@ -113,9 +113,8 @@
 ---
 ### CTFS
 <div align="center">
-<img src="https://tryhackme-badges.s3.amazonaws.com/Macallantheroot.png" alt="Your Image Badge" />
   <br /><br />
-
+<img src="https://tryhackme-badges.s3.amazonaws.com/Macallantheroot.png" alt="Your Image Badge" />
 <a href="https://www.hackerrank.com/certificates/7058a1b15713" target="_blank">
   <img src="https://img.shields.io/badge/-Hackerrank%20C%23%20(Basic)%20Certificate-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Certificate" />
 </a>
