@@ -81,7 +81,7 @@
 <tr>
 <td width="50%">
 
-#### 🦠 [RedTeamToolkit](https://github.com/MacallanTheRoot/RedTeamToolkit)
+#### 🦠 [RedTeamToolkit](https://github.com/MacallanTheRoot/Red-Team-Toolkit)
 **Comprehensive Adversary Emulation Suite**
 - 💣 **PyRansom**: Advanced ransomware simulator with RSA encryption
 - 🤖 **AutoSec**: Automated reconnaissance & vulnerability scanner
@@ -95,7 +95,7 @@
 </td>
 <td width="50%">
 
-#### 🛡️ [BlueTeamToolkit](https://github.com/MacallanTheRoot/BlueTeamToolkit)
+#### 🛡️ [BlueTeamToolkit](https://github.com/MacallanTheRoot/Blue-Team-Toolkit)
 **Integrated Cybersecurity Defense Platform**
 - 🚨 **ThreatWeave SIEM**: ML-powered threat detection & correlation
 - 🔍 **GuardEDR**: Behavioral EDR with active response & quarantine
