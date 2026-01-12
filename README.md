@@ -65,7 +65,7 @@
 </td>
 <td width="50%">
 
-#### 🕸️ [DarkDrill](https://github.com/MacallanTheRoot/DarkDrill)
+#### 🕸️ [DarkDrill](https://github.com/MacallanTheRoot/DarkDrillScrapping)
 **Dark Web Scraping & Intelligence Engine**
 - 🧅 Tor network integration for anonymous scraping
 - 🔍 Automated .onion discovery & indexing
