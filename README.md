@@ -3,9 +3,9 @@
 </div>
 <br> <br>
 <div align="center">
-  ### "damn. System down."
+    "damn. System down."
     <br>
-  ###  "##acımbitmiyor"
+    "##acımbitmiyor"
 </div>
   <p align="center">
     <a href="https://github.com/MacallanTheRoot">
