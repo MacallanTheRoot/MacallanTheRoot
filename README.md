@@ -1,7 +1,6 @@
 <div align="center">
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7000ff&height=250&section=header&text=MacallanTheRoot&fontSize=80&animation=fadeIn&fontAlign=50&fontAlignY=35&desc=Purple%20Teamer%20%7C%20Malware%20Researcher%20%7C%20Python%20Dev&descAlign=50&descAlignY=55&descSize=20&fontColor=00ff00" alt="header" />
-
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=050505&height=250&section=header&text=MacallanTheRoot&fontSize=80&animation=fadeIn&fontAlign=50&fontAlignY=35&desc=Purple%20Teamer%20%7C%20Malware%20Researcher%20%7C%20Python%20Dev&descAlign=50&descAlignY=55&descSize=20&fontColor=9D46FF" alt="header" />
+</div>
   ### "damn. System down."
   ###  "##acımbitmiyor"
   <p align="center">
