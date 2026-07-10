@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=050505&height=250&section=header&text=MacallanTheRoot&fontSize=80&animation=fadeIn&fontAlign=50&fontAlignY=35&desc=Purple%20Teamer%20%7C%20Malware%20Researcher%20%7C%20Python%20Dev&descAlign=50&descAlignY=55&descSize=20&fontColor=9D46FF" alt="header" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=050505&height=250&section=header&text=MacallanTheRoot&fontSize=80&animation=fadeIn&fontAlign=50&fontAlignY=35&desc=Security%20Researcher%20%7C%20AI%20Developer%20%7C%20Full-Stack&descAlign=50&descAlignY=55&descSize=20&fontColor=9D46FF" alt="header" />
 </div>
 <br> <br>
 <div align="center">
@@ -12,10 +12,10 @@
       <img src="https://img.shields.io/badge/Security-Purple%20Team-purple?style=for-the-badge&logo=kali-linux&logoColor=white" />
     </a>
     <a href="https://github.com/MacallanTheRoot">
-      <img src="https://img.shields.io/badge/Focus-Adversary%20Emulation-blue?style=for-the-badge&logo=security&logoColor=white" />
+      <img src="https://img.shields.io/badge/AI-Healthcare%20%26%20Tracking-blue?style=for-the-badge&logo=robot&logoColor=white" />
     </a>
     <a href="https://github.com/MacallanTheRoot">
-      <img src="https://img.shields.io/badge/Status-Active%20Researcher-success?style=for-the-badge&logo=activity&logoColor=white" />
+      <img src="https://img.shields.io/badge/CTF-National%20Top%2010-success?style=for-the-badge&logo=flag&logoColor=white" />
     </a>
   </p>
 </div>
@@ -24,13 +24,14 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 I'm a 3rd-year **English Language & Literature** student at **Ağrı İbrahim Çeçen University**.
-- 💼 Former **IT Technician & Director** at AICU Information Processing Dept.
-- 🗣️ I explore the intersection of **Linguistics & Coding** (currently learning Russian 🇷🇺).
-- 🔭 I'm currently working on **AmateurOSINT**, **Hayalet-Enterprise**, and **Aslan-Bey-OPSEC**.
-- 🛡️ I specialize in **Offensive Security, SIEM Development & EDR Systems**.
-- 🐍 My weapon of choice is **Python** (Streamlit, Flask, Scapy, Cryptography).
-- 💬 Ask me about **Malware Analysis, Purple Teaming, and Security Automation**.
+- 🎓 Double Major: **Management Information Systems** at Anadolu University & **English Language & Literature** at Ağrı İbrahim Çeçen University.
+- 🏆 **Team Member of TanıAI** (TEKNOFEST 2026 Healthcare AI) & **Project Manager** of TÜBİTAK 2209-A "AI-based Student Tracking System".
+- 🚩 Ranked **Top 10 in Turkey** at the National Siber Vatan CTF Finals (Team "Uç Beyleri") and **1st Place** in SERKA Regional CTF.
+- 💼 Former **Founder & Full-Stack Developer** at Chase Web Services.
+- 🌐 Creator of **Web Grenade** & **Web Explode** extensions which have reached **hundreds of downloads** worldwide!
+- 🎭 Awarded Honorable Mention by İbrahim Çeçen Vakfı for the English Drama Club Documentary project.
+- 🛡️ I specialize in **Offensive Security, OSINT, and AI Development**.
+- 🗣️ Fluent in English (C2), learning Russian (A2) and Japanese (B1).
 
 ---
 
@@ -40,10 +41,10 @@
 
 | **Languages** | **Security & Systems** | **Frameworks & Tools** |
 |:-------------:|:----------------------:|:----------------------:|
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white) | ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) |
-| ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) | ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) |
-| ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) | ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white) |
-| ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) | ![Tor](https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=tor-project&logoColor=white) | ![Scapy](https://img.shields.io/badge/Scapy-00599C?style=for-the-badge&logo=python&logoColor=white) |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white) | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) |
+| ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) | ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) |
+| ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) | ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white) | ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) |
+| ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) | ![Metasploit](https://img.shields.io/badge/Metasploit-EE2222?style=for-the-badge&logo=metasploit&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
 
 </div>
 
@@ -55,45 +56,52 @@
 <tr>
 <td width="50%">
 
+#### 💣 [Web Grenade](https://github.com/MacallanTheRoot/WebGrenade) & 💥 [Web Explode](https://github.com/MacallanTheRoot/WebExplode)
+**High-Impact Web Extensions**
+- 🌐 Actively reached **hundreds of downloads** globally!
+- ⚡ Advanced functionality for web interaction.
+- 🔧 Developed for maximum efficiency and utility.
+
+`JavaScript` `HTML/CSS` `Browser API`
+
+</td>
+<td width="50%">
+
 #### 🔍 [AmateurOSINT](https://github.com/MacallanTheRoot/AmateurOSINT)
 **Professional OSINT Intelligence Platform**
 - 🌐 13 OSINT modules (Social Media, Domain Intel)
-- 📧 Email Harvesting & Validation
-- 🖼️ Metadata Analysis (EXIF, PDF)
 - 📍 Geo-Intelligence with interactive maps
 - 📄 Professional PDF reporting
 
 `Python` `Streamlit` `dnspython` `Pillow`
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 #### 🕸️ [DarkDrill](https://github.com/MacallanTheRoot/DarkDrillScrapping)
 **Dark Web Scraping & Intelligence Engine**
 - 🧅 Tor network integration (Anonymous Scraping)
 - 🔍 Automated .onion discovery & indexing
-- 💾 SQLite database for threat intel storage
 - 📊 Interactive dashboard with Streamlit UI
-- 🔐 Privacy-focused architecture
 
 `Python` `Tor` `Streamlit` `SQLite`
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 #### 🦠 [RedTeamToolkit](https://github.com/MacallanTheRoot/Red-Team-Toolkit)
 **Adversary Emulation Suite**
 - 💣 **PyRansom**: RSA encrypted ransomware sim
 - 🤖 **AutoSec**: Automated vuln scanner
-- 🔓 **ARP Spoofer**: MITM attack framework
-- 📡 **Packet Sniffer**: Network traffic analyzer
 - 🎯 HTTP/SMTP C2 infrastructure
 
 `Python` `Flask` `Scapy` `Cryptography`
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 #### 🛡️ [BlueTeamToolkit](https://github.com/MacallanTheRoot/Blue-Team-Toolkit)
@@ -101,38 +109,43 @@
 - 🚨 **ThreatWeave**: ML-powered detection
 - 🔍 **GuardEDR**: Behavioral EDR response
 - 🪤 **VoidTrap**: Deception & honeypot system
-- 👤 **ADGuard**: Active Directory auditing
-- 🔗 MITRE ATT&CK integration
 
 `Python` `Streamlit` `Ldap3` `ML`
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 #### 👻 [Hayalet-Enterprise](https://github.com/MacallanTheRoot/Hayalet-Enterprise-Sentinel)
 **Enterprise Sentinel & Monitoring**
 - 🏢 Corporate network surveillance
 - ⚡ Real-time anomaly detection
-- 🛡️ Internal threat prevention system
-- 📊 Centralized security dashboard
 - 🔔 Automated incident alerting
 
 `Python` `Socket` `Multithreading`
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
-#### 🦁 [Aslan-Bey-OPSEC](https://github.com/MacallanTheRoot/Aslan-Bey-OPSEC)
-**Operational Security Automation**
-- 🎭 Digital footprint reduction tools
-- 🔒 Secure communication tunnels
-- 🧹 Automated log wiping & trace removal
-- 🕵️ Counter-surveillance utilities
-- 🚀 OpSec checklist integration
+#### 🕵️ [Dayı Stego Solver](https://github.com/MacallanTheRoot/dayi-stego-solver)
+**Concurrent Steganography Solver**
+- ⚡ Runs 8 stego tools simultaneously
+- 🧠 Smart routing & early Discord/CTFd notification
+- 🔒 OOM-safe, pure efficiency
 
-`Python` `Bash` `Encryption`
+`Python` `Asyncio` `Subprocess`
+
+</td>
+<td width="50%">
+
+#### 💻 [CSC - CtfShitCli](https://github.com/MacallanTheRoot/CSL-CtfShitCli)
+**Ultimate CTFd Swiss Army Knife**
+- 🤖 Autonomous AI Analyzer via LLMs
+- 👁️ Watchdog & Auto Submitter daemon
+- 📜 Universal CTF Script Generator
+
+`Python` `Click` `LLM` `CTFd API`
 
 </td>
 </tr>
@@ -146,10 +159,11 @@
 </div>
 
 ---
-### 📜 Certifications & CTF
+
+### 📜 Certifications & Achievements
 <div align="center">
   <br />
-<img src="https://tryhackme-badges.s3.amazonaws.com/Macallantheroot.png?cache-control=no-cache" alt="TryHackMe Badge" />
+  <img src="https://tryhackme-badges.s3.amazonaws.com/Macallantheroot.png?cache-control=no-cache" alt="TryHackMe Badge" />
   <br><br>
 
 <a href="https://www.hackerrank.com/certificates/7058a1b15713" target="_blank">
