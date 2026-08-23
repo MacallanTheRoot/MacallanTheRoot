@@ -25,7 +25,7 @@
 ### 👨‍💻 About Me
 
 - 🎓 Double Major: **Management Information Systems** at Anadolu University & **English Language & Literature** at Ağrı İbrahim Çeçen University.
-- 🏆 **Team Member of TanıAI** (TEKNOFEST 2026 Healthcare AI) & **Project Manager** of TÜBİTAK 2209-A "AI-based Student Tracking System".
+- 🏆 **Project Manager** of TÜBİTAK 2209-A "AI-based Student Tracking System".
 - 🚩 Ranked **Top 10 in Turkey** at the National Siber Vatan CTF Finals (Team "Uç Beyleri") and **1st Place** in SERKA Regional CTF.
 - 💼 Former **Founder & Full-Stack Developer** at Chase Web Services.
 - 🌐 Creator of **Web Grenade** & **Web Explode** extensions which have reached **hundreds of downloads** worldwide!
