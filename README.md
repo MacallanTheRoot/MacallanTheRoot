@@ -1,97 +1,125 @@
 <div align="center">
 
-<a href="https://macallantheroot.github.io/">
-  <img src="assets/red-studio-hero.svg" alt="MacallanTheRoot | Efe Şahinbaş — original red and black security research studio banner" width="100%" />
-</a>
+<a href="https://macallantheroot.github.io/"><img src="assets/command-hero.svg" alt="MacallanTheRoot — Efe Şahinbaş; red-and-black security research interface" width="100%" /></a>
 
 <br />
 
-<a href="#selected-work">SELECTED WORK</a> &nbsp;•&nbsp;
-<a href="#research--recognition">RESEARCH</a> &nbsp;•&nbsp;
-<a href="#experience--community">BACKGROUND</a> &nbsp;•&nbsp;
-<a href="https://macallantheroot.github.io/">PORTFOLIO ↗</a>
+<a href="#selected-work">WORK</a> &nbsp; / &nbsp; <a href="#selected-pull-requests">CONTRIBUTIONS</a> &nbsp; / &nbsp; <a href="#research--recognition">RESEARCH</a> &nbsp; / &nbsp; <a href="#background">ABOUT</a> &nbsp; / &nbsp; <a href="https://macallantheroot.github.io/">PORTFOLIO ↗</a>
 
 </div>
 
----
+### `SYSTEM // IDENTITY`
 
-### THE STUDIO `/about`
-
-I build security tools, investigate attack and defense workflows, and document the results. My work spans **offensive security, detection engineering, OSINT, digital forensics**, and software development.
+**Efe Şahinbaş** — cybersecurity-focused developer and researcher working across offensive security, detection engineering, OSINT, digital forensics, and open-source engineering.
 
 ```text
-> scope       authorized environments & reproducible experiments
-> approach    build  →  test  →  document  →  improve
-> direction   research-driven tools, practical blue/red teaming
+$ whoami
+MacallanTheRoot
+
+$ cat focus.txt
+RED TEAM / BLUE TEAM / AUTOMATION / DIGITAL FORENSICS
+
+$ printf '%s\n' 'Build. Test. Document. Improve.'
+Build. Test. Document. Improve.
 ```
 
-**A little more context:** I previously founded Chase Web Services and worked on full-stack applications and technical operations. I study **English Language & Literature** at Ağrı İbrahim Çeçen University (expected 2027), alongside a **separate** Management Information Systems degree at Anadolu University (expected 2029).
+## GitHub activity
+
+<img width="100%" src="assets/github-metrics.svg" alt="Public GitHub metrics maintained from GitHub API: repository count, merged PRs and open PRs" />
+
+<sub>Public GitHub data only. Pull request totals include both contributions to other projects and PRs to my own repositories. Numbers are refreshed by a repository-owned GitHub Actions workflow; scheduled updates are not instantaneous.</sub>
 
 ## Selected work
 
-*Six build notes from an actively maintained open-source workshop.*
+<img src="assets/section-work.svg" width="100%" alt="01 — Selected builds, practical security engineering" />
 
 <table>
-  <tr>
-    <td width="50%" align="center"><a href="https://github.com/MacallanTheRoot/Red-Team-Toolkit"><img width="100%" src="assets/work-red-team-toolkit.svg" alt="Red Team Toolkit — adversary emulation and authorized reconnaissance" /></a></td>
-    <td width="50%" align="center"><a href="https://github.com/MacallanTheRoot/Blue-Team-Toolkit"><img width="100%" src="assets/work-blue-team-toolkit.svg" alt="Blue Team Toolkit — defensive detection and audit research" /></a></td>
-  </tr>
-  <tr>
-    <td width="50%" align="center"><a href="https://github.com/MacallanTheRoot/DayiStegoSolver"><img width="100%" src="assets/work-dayi-stego-solver.svg" alt="Dayı Stego Solver — file forensics and steganography triage" /></a></td>
-    <td width="50%" align="center"><a href="https://github.com/MacallanTheRoot/AmateurOSINT"><img width="100%" src="assets/work-amateur-osint.svg" alt="AmateurOSINT — local open-source intelligence dashboard" /></a></td>
-  </tr>
-  <tr>
-    <td width="50%" align="center"><a href="https://github.com/MacallanTheRoot/ctfshitcli"><img width="100%" src="assets/work-ctfshitcli.svg" alt="CtfShitCli — CTF automation tools" /></a></td>
-    <td width="50%" align="center"><a href="https://github.com/MacallanTheRoot/WebExplode"><img width="100%" src="assets/work-webexplode.svg" alt="WebExplode — browser-based authorized web security testing" /></a></td>
-  </tr>
+<tr>
+<td width="50%" align="center"><a href="https://github.com/MacallanTheRoot/Red-Team-Toolkit"><img width="100%" src="assets/work-red-team-toolkit.svg" alt="Red Team Toolkit — adversary emulation and authorized reconnaissance"/></a></td>
+<td width="50%" align="center"><a href="https://github.com/MacallanTheRoot/Blue-Team-Toolkit"><img width="100%" src="assets/work-blue-team-toolkit.svg" alt="Blue Team Toolkit — detection engineering and identity audit"/></a></td>
+</tr>
+<tr>
+<td width="50%" align="center"><a href="https://github.com/MacallanTheRoot/DayiStegoSolver"><img width="100%" src="assets/work-dayi-stego-solver.svg" alt="Dayı Stego Solver — file forensics and steganography triage"/></a></td>
+<td width="50%" align="center"><a href="https://github.com/MacallanTheRoot/AmateurOSINT"><img width="100%" src="assets/work-amateur-osint.svg" alt="AmateurOSINT — open-source intelligence workspace"/></a></td>
+</tr>
+<tr>
+<td width="50%" align="center"><a href="https://github.com/MacallanTheRoot/ctfshitcli"><img width="100%" src="assets/work-ctfshitcli.svg" alt="CtfShitCli — CTF workflow automation"/></a></td>
+<td width="50%" align="center"><a href="https://github.com/MacallanTheRoot/WebExplode"><img width="100%" src="assets/work-webexplode.svg" alt="WebExplode — browser security testing utilities"/></a></td>
+</tr>
 </table>
 
 <details>
-  <summary><b>EXPLORE THE REST OF THE WORKSHOP</b> — tools, extensions, and documentation</summary>
+<summary><b>MORE OPEN SOURCE</b> — utilities, references and experiments</summary>
 
-| Project | What it covers |
+| Repository | Focus |
 |:--|:--|
-| [WebGrenade](https://github.com/MacallanTheRoot/WebGrenade) | Local-first browser utilities and productivity tools |
-| [Kervan DPI](https://github.com/MacallanTheRoot/kervan-dpi) | Cross-platform desktop control for independently developed DPI tooling |
-| [Awesome Dorking TR](https://github.com/MacallanTheRoot/awesome-dorking-tr) | Turkish research reference for search operators |
-| [Spotify Scrapper](https://github.com/MacallanTheRoot/spotify-scrapper) | Metadata-only export for public Spotify playlists and profiles |
-| [CTF write-ups](https://github.com/MacallanTheRoot/ctf-writeups) | Reproducible walkthroughs, notes, and challenge artifacts |
+| [WebGrenade](https://github.com/MacallanTheRoot/WebGrenade) | Local-first browser utilities |
+| [Kervan DPI](https://github.com/MacallanTheRoot/kervan-dpi) | Windows / Linux tooling integration |
+| [Awesome Dorking TR](https://github.com/MacallanTheRoot/awesome-dorking-tr) | Referenced search-operator knowledge base |
+| [Spotify Scrapper](https://github.com/MacallanTheRoot/spotify-scrapper) | Public playlist/profile metadata export |
+| [CTF writeups](https://github.com/MacallanTheRoot/ctf-writeups) | Reproducible write-ups and challenge artifacts |
 
 </details>
 
-> **Lab note:** Red Team and Blue Team Toolkits have been tested in a self-managed VDS lab. These repositories contain evolving research prototypes, not claims of production-certified security.
+<sub>Red Team and Blue Team Toolkit are controlled-lab research prototypes, not production-certified security solutions.</sub>
+
+## Selected pull requests
+
+<img src="assets/section-contributions.svg" width="100%" alt="02 — Selected open-source contributions" />
+
+*Selected pull requests authored by this account. Cards link to their original discussions; **MERGED**, **OPEN** and **CLOSED** are sourced from GitHub.*
+
+<table>
+<tr>
+<td width="50%" align="center"><a href="https://github.com/emreocell/Praxi-Bot/pull/493"><img width="100%" src="assets/pr-praxi-493.svg" alt="Praxi-Bot PR 493 — property-based scheduler tests"/></a></td>
+<td width="50%" align="center"><a href="https://github.com/storytold/craft-anything/pull/2144"><img width="100%" src="assets/pr-craft-2144.svg" alt="Craft Anything PR 2144 — bound reconstruction source reads"/></a></td>
+</tr>
+<tr>
+<td width="50%" align="center"><a href="https://github.com/kallekalle/soundcloud-electron/pull/13"><img width="100%" src="assets/pr-soundcloud-13.svg" alt="soundcloud-electron PR 13 — Windows taskbar media controls"/></a></td>
+<td width="50%" align="center"><a href="https://github.com/storytold/anicraft/pull/337"><img width="100%" src="assets/pr-anicraft-337.svg" alt="AniCraft PR 337 — MCP render caption fix"/></a></td>
+</tr>
+<tr>
+<td width="50%" align="center"><a href="https://github.com/storytold/artcraft/pull/2857"><img width="100%" src="assets/pr-artcraft-2857.svg" alt="ArtCraft PR 2857 — custom desktop theme support"/></a></td>
+<td width="50%" align="center"><a href="https://github.com/storytold/pdfcraft/pull/7832"><img width="100%" src="assets/pr-pdfcraft-7832.svg" alt="PdfCraft PR 7832 — accessibility result reporting"/></a></td>
+</tr>
+</table>
+
+<a href="https://github.com/pulls?q=is%3Apr+author%3AMacallanTheRoot">Browse all public PRs ↗</a>
 
 ## Research & recognition
 
-<img width="100%" src="assets/red-studio-research.svg" alt="Research field records — AltaySec sprint: 39 incident records and 26 controls; Uç Beyleri SERKA first and Türkiye final tenth; Kayıp Frekans 19 of 20 flags documented." />
+<img src="assets/section-research.svg" width="100%" alt="03 — Published research and field notes" />
 
-- **AI-agent security:** co-authored [*The Containment Burden Sits on the Wrong Side of the Boundary*](https://apartresearch.com/sprints/projects/the-containment-burden-sits-on-the-wrong-side-of-the-boundary-ai-escape-detection-harness-7luf), an AltaySec team report from an Apart Research AI Incident Response Sprint. The analysis considered 39 incident records and 26 controls.
-- **Siber Vatan 2026:** served as **Uç Beyleri team captain**; the team placed **1st at the SERKA regional stage** and **10th in the Türkiye final**. [Read coverage](https://www.karshakimiyet.com/serhatin-uc-beyleri-siber-vatan-turkiye-finalinde-ilk-10a-girdi-109788h.htm).
-- **CTF field notes:** [Kayıp Frekans — AltaySec OSINT Challenge III](https://github.com/MacallanTheRoot/ctf-writeups) — **10th place (participant-reported)**, with **19/20 flags documented**. Additional write-ups include AltaySec OSINT Challenge Season II, Junior Crypt 2026, and NoHackNoCTF 2026.
-- **Student research:** led a TÜBİTAK 2209-A-supported AI-based student tracking system project.
+<img src="assets/red-studio-research.svg" width="100%" alt="Research overview: AI containment report, Siber Vatan team placements and CTF documentation" />
 
-## Experience & community
+- **AI security research:** co-authored the AltaySec team report [*The Containment Burden Sits on the Wrong Side of the Boundary*](https://apartresearch.com/sprints/projects/the-containment-burden-sits-on-the-wrong-side-of-the-boundary-ai-escape-detection-harness-7luf) during an Apart Research incident response sprint; analysed **39 incident records and 26 security controls**.
+- **Siber Vatan / Uç Beyleri (2026):** team captain; **SERKA regional 1st** and **Türkiye national final 10th** (team results). [Coverage ↗](https://www.karshakimiyet.com/serhatin-uc-beyleri-siber-vatan-turkiye-finalinde-ilk-10a-girdi-109788h.htm)
+- **Kayıp Frekans:** **10th place (participant-reported)** with 19/20 CTF flags documented. [Writeups ↗](https://github.com/MacallanTheRoot/ctf-writeups)
+- **TÜBİTAK 2209-A:** project lead, supported AI-based student tracking system research.
 
-| Track | Experience |
+## Background
+
+<img src="assets/section-background.svg" width="100%" alt="04 — Experience and technical background" />
+
+| Workstream | Experience |
 |:--|:--|
-| **Software engineering** | Founded **Chase Web Services**; built QR/NFC digital menus, responsive websites, and full-stack solutions. Completed junior front-end internship at Makbil. |
-| **Systems & operations** | Supported university IT troubleshooting, campus technology, and event/live-stream operations. |
-| **International communication** | Worked in guest relations at **Crystal Hotels** during the 2024 and 2025 seasons. |
-| **Community leadership** | President of the Ağrı İbrahim Çeçen University Cybersecurity Club; contributor to regional cybersecurity education activities. |
-| **Media** | Invited to **TRT Erzurum Radio — Genç Yaşam** on 8 September 2026. The recording was later published as [PIRSEC Talks #001](https://www.youtube.com/watch?v=ZmAsldsUqJg) ([Spotify](https://open.spotify.com/episode/7GaeXnwwkfeFJnFlFQukxT)). |
+| Engineering | Founder and full-stack developer at **Chase Web Services**; junior front-end internship at **Makbil** |
+| Operations | University IT, network and event technology support |
+| Communication | International guest relations at **Crystal Hotels** during the 2024 and 2025 seasons |
+| Leadership | President of the Ağrı İbrahim Çeçen University Cybersecurity Club; regional cybersecurity community contributions |
+| Media | Invited to **TRT Erzurum Radio — Genç Yaşam**, 8 September 2026. Recording: [PIRSEC Talks #001](https://www.youtube.com/watch?v=ZmAsldsUqJg) |
+| Education | **English Language & Literature** at Ağrı İbrahim Çeçen University (expected 2027) and **separate** Management Information Systems degree at Anadolu University (expected 2029) |
 
-### TOOLCHAIN `/skills`
-
-`Python` · `JavaScript` · `C#` · `SQL` · `Bash` · `Linux` · `Docker` · `Git` · `Wireshark` · `Nmap` · `Scapy` · `LDAP / Active Directory` · `Flask` · `Streamlit` · `Digital forensics`
+**TOOLCHAIN** &nbsp; `Python` · `Bash` · `JavaScript` · `C#` · `SQL` · `Linux` · `Docker` · `Git` · `Wireshark` · `Scapy` · `Nmap` · `LDAP / AD` · `Flask` · `Streamlit`
 
 ---
 
 <div align="center">
 
-**[GITHUB](https://github.com/MacallanTheRoot) &nbsp; / &nbsp; [PORTFOLIO](https://macallantheroot.github.io/) &nbsp; / &nbsp; [LINKEDIN](https://www.linkedin.com/in/efe-sahinbas/) &nbsp; / &nbsp; [RESEARCH](https://apartresearch.com/sprints/projects/the-containment-burden-sits-on-the-wrong-side-of-the-boundary-ai-escape-detection-harness-7luf)**
+<a href="https://macallantheroot.github.io/">PORTFOLIO ↗</a> &nbsp; / &nbsp; <a href="https://www.linkedin.com/in/efe-sahinbas/">LINKEDIN ↗</a> &nbsp; / &nbsp; <a href="https://github.com/MacallanTheRoot/ctf-writeups">CTF WRITEUPS ↗</a> &nbsp; / &nbsp; <a href="https://github.com/MacallanTheRoot?tab=repositories">ALL REPOS ↗</a>
 
-<sub>Built in the open · Tested in authorized environments · Documented with limitations</sub>
+<br />
 
-<img width="100%" src="assets/red-studio-footer.svg" alt="MacallanTheRoot red divider" />
+<sub>Authorized environments only. Technical claims are scoped to documented evidence.</sub>
 
 </div>
