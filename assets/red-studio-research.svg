@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="275" viewBox="0 0 1200 275" role="img" aria-label="Research and field notes: AI security sprint, Siber Vatan, CTF writeups"><title>Research & Field Notes</title>
+<defs><linearGradient id="bg" x1="0" x2="1" y2="1"><stop stop-color="#101015"/><stop offset=".65" stop-color="#1c0b12"/><stop offset="1" stop-color="#2c0e17"/></linearGradient></defs>
+<rect x="1" y="1" width="1198" height="273" rx="18" fill="url(#bg)" stroke="#73303d" stroke-width="2"/>
+<rect x="1" y="1" width="1198" height="5" rx="2" fill="#ef3c53"/>
+<text x="34" y="39" fill="#fb6174" font-size="13" font-family="monospace" letter-spacing="2">FIELD RECORDS  /  VERIFIED WORK &amp; PARTICIPATION</text>
+<path d="M34 56H1166" stroke="#5d2733"/>
+<path d="M401 75V240M795 75V240" stroke="#5d2733"/>
+<text x="34" y="96" fill="#9d8588" font-size="12" font-family="monospace">01 / AI SECURITY</text>
+<text x="34" y="146" fill="#fff0f0" font-size="37" font-family="Arial,sans-serif" font-weight="800">39 / 26</text>
+<text x="34" y="172" fill="#ff7284" font-size="15" font-family="Arial,sans-serif">Incident records / controls</text>
+<text x="34" y="198" fill="#c9a9af" font-size="13" font-family="Arial,sans-serif">AltaySec · Apart Research Sprint</text>
+<text x="423" y="96" fill="#9d8588" font-size="12" font-family="monospace">02 / COMPETITION</text>
+<text x="423" y="146" fill="#fff0f0" font-size="37" font-family="Arial,sans-serif" font-weight="800">1ST / 10TH</text>
+<text x="423" y="172" fill="#ff7284" font-size="15" font-family="Arial,sans-serif">SERKA / national team final</text>
+<text x="423" y="198" fill="#c9a9af" font-size="13" font-family="Arial,sans-serif">Uç Beyleri · Siber Vatan 2026</text>
+<text x="819" y="96" fill="#9d8588" font-size="12" font-family="monospace">03 / WRITEUPS</text>
+<text x="819" y="146" fill="#fff0f0" font-size="37" font-family="Arial,sans-serif" font-weight="800">19 / 20</text>
+<text x="819" y="172" fill="#ff7284" font-size="15" font-family="Arial,sans-serif">Documented challenge flags</text>
+<text x="819" y="198" fill="#c9a9af" font-size="13" font-family="Arial,sans-serif">Kayıp Frekans · participant reported</text>
+<path d="M34 229H1166" stroke="#5d2733"/>
+<text x="34" y="254" fill="#957781" font-size="12" font-family="monospace">EVIDENCE OVER AESTHETICS</text>
+<text x="1164" y="254" fill="#ff6476" font-size="12" font-family="monospace" text-anchor="end">SOURCE-LINKED / 2026</text>
+</svg>

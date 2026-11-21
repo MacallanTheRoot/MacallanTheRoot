@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="212" viewBox="0 0 560 212" role="img" aria-label="CTFSHITCLI project card"><title>CTFSHITCLI — CTF AUTOMATION</title><defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0c0c11"/><stop offset="1" stop-color="#260d16"/></linearGradient><radialGradient id="g"><stop stop-color="#bd263d" stop-opacity=".24"/><stop offset="1" stop-color="#bd263d" stop-opacity="0"/></radialGradient></defs>
+<rect x="1" y="1" width="558" height="210" rx="15" fill="url(#bg)" stroke="#75313f" stroke-width="1.4"/>
+<rect x="1" y="1" width="5" height="210" rx="2" fill="#ef3c53"/>
+<circle cx="505" cy="122" r="95" fill="url(#g)"/><circle cx="507" cy="111" r="76" stroke="#a63347" stroke-opacity=".44" fill="none"/><circle cx="507" cy="111" r="47" stroke="#a63347" stroke-opacity=".3" fill="none"/>
+<path d="M440 111H560M507 50V173" stroke="#ab2b40" stroke-opacity=".24"/>
+<text x="27" y="33" font-family="monospace" font-size="12" letter-spacing="1.5" fill="#f65c71">CASE FILE / 05</text>
+<text x="228" y="33" font-family="monospace" font-size="11" letter-spacing=".9" fill="#a9878c">OPEN SOURCE</text>
+<path d="M27 46H532" stroke="#512632" stroke-width="1"/>
+<text x="27" y="89" font-family="Arial,Helvetica,sans-serif" font-size="32" font-weight="800" fill="#fff0f0" letter-spacing=".3">CTFSHITCLI</text>
+<text x="28" y="112" font-family="monospace" font-size="10.5" letter-spacing="1.6" fill="#ff657a">CTF AUTOMATION</text>
+<text x="28" y="139" font-family="Arial,Helvetica,sans-serif" font-size="14" fill="#dbb9bf">Challenge management, reusable</text>
+<text x="28" y="157" font-family="Arial,Helvetica,sans-serif" font-size="14" fill="#dbb9bf">solvers and optional AI workflows.</text>
+<path d="M27 173H532" stroke="#512632" stroke-width="1"/>
+<text x="28" y="195" font-family="monospace" font-size="10.5" letter-spacing=".6" fill="#a9858d">PYTHON  /  CLICK  /  CTFD</text>
+<path d="M515 191H534M527 184L534 191L527 198" stroke="#ff5469" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

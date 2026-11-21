@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="450" viewBox="0 0 1200 450" role="img" aria-labelledby="title desc"><title id="title">MacallanTheRoot — Security Research Studio</title><desc id="desc">Original dark red portfolio-style header with laboratory graphic, the name Efe Şahinbaş, and security research focus.</desc>
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#09090e"/><stop offset=".62" stop-color="#150c12"/><stop offset="1" stop-color="#2b0c15"/></linearGradient>
+ <radialGradient id="glow"><stop stop-color="#e33348" stop-opacity=".38"/><stop offset=".57" stop-color="#a21c30" stop-opacity=".12"/><stop offset="1" stop-color="#c62438" stop-opacity="0"/></radialGradient>
+ <linearGradient id="edge" x1="0" x2="1"><stop stop-color="#be2337"/><stop offset=".5" stop-color="#ff4459"/><stop offset="1" stop-color="#64121e"/></linearGradient>
+ <pattern id="grid" width="35" height="35" patternUnits="userSpaceOnUse"><path d="M35 0H0V35" fill="none" stroke="#6c2635" stroke-opacity=".18" stroke-width="1"/></pattern>
+ <clipPath id="panel"><rect width="1198" height="448" x="1" y="1" rx="20"/></clipPath>
+ </defs>
+ <style>
+ @keyframes pulse{0%,100%{opacity:.22}50%{opacity:.7}}
+ @keyframes sweep{0%{transform:translateY(-8px);opacity:0}35%{opacity:.5}100%{transform:translateY(280px);opacity:0}}
+ @keyframes enter{0%{opacity:.3;transform:translateY(12px)}100%{opacity:1;transform:translateY(0)}}
+ .title{animation:enter 1.2s ease-out both}
+ .scan{animation:sweep 6s linear infinite}
+ .core{animation:pulse 3s ease-in-out infinite}
+ @media (prefers-reduced-motion:reduce){.title,.scan,.core{animation:none}}
+ </style>
+ <g clip-path="url(#panel)">
+ <rect width="1200" height="450" fill="url(#bg)"/>
+ <rect width="1200" height="450" fill="url(#grid)" opacity=".8"/>
+ <ellipse cx="1020" cy="230" rx="305" ry="270" fill="url(#glow)"/>
+ <path d="M0 83H1200" stroke="#6e2936" stroke-opacity=".85"/>
+ <path d="M0 414H1200" stroke="#6e2936" stroke-opacity=".85"/>
+ <path d="M0 2H1200" stroke="url(#edge)" stroke-width="4"/>
+ <rect x="38" y="27" width="38" height="38" rx="9" fill="#a81a2d"/>
+ <path d="M48 39L58 55L68 39" fill="none" stroke="#fff1f1" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+ <text x="93" y="53" fill="#f6e8ea" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="800" letter-spacing="2">M / R</text>
+ <text x="270" y="52" fill="#c6a5aa" font-family="monospace" font-size="13" letter-spacing="1.4">STUDIO</text>
+ <text x="375" y="52" fill="#79666a" font-family="monospace" font-size="13" letter-spacing="1.4">/</text>
+ <text x="402" y="52" fill="#c6a5aa" font-family="monospace" font-size="13" letter-spacing="1.4">WORK</text>
+ <text x="488" y="52" fill="#79666a" font-family="monospace" font-size="13" letter-spacing="1.4">/</text>
+ <text x="515" y="52" fill="#c6a5aa" font-family="monospace" font-size="13" letter-spacing="1.4">RESEARCH</text>
+ <rect x="989" y="27" width="164" height="37" rx="18" fill="#301119" stroke="#9f3140"/>
+ <circle cx="1011" cy="45.5" r="5" fill="#ff4055" class="core"/>
+ <text x="1025" y="50" fill="#f9d5da" font-family="monospace" font-size="13" font-weight="bold">SYSTEM ONLINE</text>
+ <rect x="49" y="120" width="6" height="18" fill="#e22d42"/>
+ <text x="69" y="134" fill="#fb6374" font-family="monospace" font-size="15" font-weight="bold" letter-spacing="3">INDEPENDENT SECURITY STUDIO</text>
+ <g class="title">
+ <text x="42" y="227" fill="#fff3f4" font-family="Arial,Helvetica,sans-serif" font-size="89" font-weight="900" letter-spacing="-3">MACALLAN</text>
+ <text x="43" y="315" fill="#f53a51" font-family="Arial,Helvetica,sans-serif" font-size="89" font-weight="900" letter-spacing="-3">THE ROOT</text>
+ </g>
+ <text x="50" y="362" fill="#f5dce0" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="600">Efe Şahinbaş</text>
+ <text x="240" y="362" fill="#9d7981" font-family="monospace" font-size="14">/ RED TEAM  ×  BLUE TEAM  ×  OSINT</text>
+ <g opacity=".7" stroke="#d22b40" fill="none">
+  <circle cx="989" cy="246" r="140" stroke-width="1"/>
+  <circle cx="989" cy="246" r="110" stroke-width="1.5" stroke-dasharray="4 9"/>
+  <circle cx="989" cy="246" r="80" stroke-width="1"/>
+  <circle cx="989" cy="246" r="44" stroke-width="1.5"/>
+  <path d="M815 246H1163M989 75V417" stroke-opacity=".7"/>
+  <path d="M895 152L1083 340M1083 152L895 340" stroke-opacity=".25"/>
+  <path d="M989 106A140 140 0 0 1 1129 246" stroke="#ff5465" stroke-width="6" stroke-linecap="round"/>
+ </g>
+ <rect x="954" y="220" width="70" height="52" rx="7" fill="#300e1b" stroke="#f64459" opacity=".95"/>
+ <text x="989" y="252" font-size="18" font-family="monospace" font-weight="bold" fill="#ff8a99" text-anchor="middle">MR/01</text>
+ <path class="scan" d="M841 142H1130" stroke="#ff5b6d" opacity=".25" stroke-width="2"/>
+ <text x="50" y="435" fill="#b48e96" font-family="monospace" font-size="12" letter-spacing="1">BUILD  /  TEST  /  DOCUMENT  /  IMPROVE</text>
+ <text x="1118" y="435" fill="#ff5368" font-family="monospace" font-size="12" text-anchor="end">EST. IN CODE</text>
+ </g>
+ <rect x="1" y="1" width="1198" height="448" rx="20" fill="none" stroke="#73303d" stroke-width="2"/>
+ </svg>
